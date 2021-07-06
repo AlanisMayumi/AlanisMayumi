@@ -1,9 +1,9 @@
 ### Hi, I'm Alanis 👋
 
-🖋 Brazilian
-🖋 web developer
-📚 studying Japanese/Korean
-INFP / ARMY 💜 
+🖋 Brazilian <br/>
+🖋 web developer <br/>
+📚 studying Japanese/Korean <br/>
+INFP / ARMY 💜 <br/>
 
 
 <!--
