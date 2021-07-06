@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Alanis 👋
+
+🖋 Brazilian
+🖋 web developer
+📚 studying Japanese/Korean
+INFP / ARMY 💜 
+
 
 <!--
 **AlanisMayumi/AlanisMayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
