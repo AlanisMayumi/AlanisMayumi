@@ -1,6 +1,6 @@
-### Hi, I'm Alanis 👋
+### Hi, I'm Alanis Mayumi 👋
 
-- Brazilian 
+- Brazilian (BR/JP)
 - Web developer
 - studying Japanese/Korean 📚
 - INFP / ARMY 💜
