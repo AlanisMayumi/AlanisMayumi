@@ -3,7 +3,7 @@
 - Brazilian (BR/JP)
 - working as frontend developer
 - studying Japanese/Korean 📚
-- INFP / ARMY 💜
+💜
 
 
 <!--
