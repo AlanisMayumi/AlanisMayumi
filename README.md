@@ -2,10 +2,14 @@
 
 - Brazilian (BR/JP)
 - working as frontend developer
-- studying Japanese/Korean 📚
-💜
+- Portuguese/English/Spanish/Japanese/Korean 📚💜
 
-
+Skills
+- React JS
+- Javascript
+- C#
+- SQL Server
+- Git
 <!--
 **AlanisMayumi/AlanisMayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
