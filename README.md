@@ -4,6 +4,7 @@
 - working as frontend developer
 - Portuguese/English/Spanish/Japanese/Korean 📚💜
 
+
 Skills
 - React JS
 - Javascript
