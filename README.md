@@ -1,7 +1,7 @@
 ### Hi, I'm Alanis Mayumi 👋
 
 - Brazilian (BR/JP)
-- working as frontend developer
+- working as frontend developer 👩‍💻
 - Portuguese/English/Spanish/Japanese/Korean 📚💜
 
 
