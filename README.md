@@ -4,9 +4,8 @@
 - working as frontend developer
 - studying Japanese/Korean 📚
 - INFP / ARMY 💜
-
-<i class="fas fa-react"></i>
-<i class="fab fa-markdown"></i>
+|
+![fa-crown](fa-crown.svg)
 
 <!--
 **AlanisMayumi/AlanisMayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
