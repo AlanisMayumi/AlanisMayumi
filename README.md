@@ -5,6 +5,8 @@
 - studying Japanese/Korean 📚
 - INFP / ARMY 💜
 
+<i class="fas fa-react"></i>
+
 
 <!--
 **AlanisMayumi/AlanisMayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
