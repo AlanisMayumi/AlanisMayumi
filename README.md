@@ -1,4 +1,4 @@
-### Hi, I'm Alanis Mayumi 👋
+### This is Alanis Mayumi 👋
 
 - Brazilian (BR/JP)
 - Full Stack developer 👩‍💻
