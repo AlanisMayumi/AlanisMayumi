@@ -2,16 +2,20 @@
 
 - Brazilian (BR/JP)
 - Full Stack developer 👩‍💻
-- Portuguese/English/Spanish/Japanese/Korean 📚💜
-
 
 Skills
 - React JS
 - Javascript
 - C#
+- .NET core
 - SQL Server
 - Git
+- Docker
 - Azure
+- Jenkins
+- Sonar
+- Figma
+
 <!--
 **AlanisMayumi/AlanisMayumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
