@@ -1,7 +1,7 @@
 ### This is Alanis Mayumi 👋
 
 - Brazilian (BR/JP)
-- Senior Software Engineer 👩‍💻
+- Software Engineer 👩‍💻
 
 Skills
 - React JS
