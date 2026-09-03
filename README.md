@@ -3,8 +3,8 @@
 
 <img src="./background.jpg" width="1000px" height="300px" alt="desk" style="object-fit: cover; object-position: center"/>
 
-- Brazilian (BR)
-- Software Engineer 👩‍💻
+- I'm a Brazilian (BR) Software Engineer 👩‍💻
+- Currently based in Japan 🗾
 
 Skills
 - React JS
