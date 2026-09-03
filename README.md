@@ -1,5 +1,5 @@
-<img src="./background.jpg" width="300px" alt="desk" />
-### This is Alanis Mayumi 👋
+<img src="./background.jpg" width="1000px" height="300px" alt="desk" style="object-fit: cover; object-position: center"/>
+### Welcome to Alanis Mayumi desk 🍵
 
 - Brazilian (BR/JP)
 - Software Engineer 👩‍💻
