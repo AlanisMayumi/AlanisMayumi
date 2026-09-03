@@ -1,4 +1,4 @@
-![](./background.jpg)
+<img src="./background.jpg" width="300px" alt="desk" />
 ### This is Alanis Mayumi 👋
 
 - Brazilian (BR/JP)
