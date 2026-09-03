@@ -1,7 +1,9 @@
-<img src="./background.jpg" width="1000px" height="300px" alt="desk" style="object-fit: cover; object-position: center"/>
-### Welcome to Alanis Mayumi desk 🍵
 
-- Brazilian (BR/JP)
+<h2> Welcome to Alanis Mayumi desk 🍵</h2>
+
+<img src="./background.jpg" width="1000px" height="300px" alt="desk" style="object-fit: cover; object-position: center"/>
+
+- Brazilian (BR)
 - Software Engineer 👩‍💻
 
 Skills
