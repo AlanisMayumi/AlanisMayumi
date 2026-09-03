@@ -3,12 +3,13 @@
 
 <img src="./background.jpg" width="1000px" height="300px" alt="desk" style="object-fit: cover; object-position: center"/>
 
-- I'm a Brazilian (BR) Software Engineer 👩‍💻
-- Currently based in Japan 🗾
+I'm a Brazilian Software Engineer 👩‍💻 <br/>
+Currently based in Japan 🗾
 
 Skills
 - React JS
 - Javascript
+- Typescript
 - C#
 - .NET core
 - SQL Server
