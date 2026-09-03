@@ -1,3 +1,4 @@
+![](./background.jpg)
 ### This is Alanis Mayumi 👋
 
 - Brazilian (BR/JP)
